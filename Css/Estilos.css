@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background: rgb(214, 211, 211);
+}
+footer{
+    background-color: rgb(51, 49, 49);
+    color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+}
+.General{
+    margin: auto;
+    width: 98%;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background: white;
+    margin-top: 20px;
+}
+h3,hr {
+    clear: both;
+  }
+/** The Binding Of Isaac **/
+
+img.CTIsaac{
+    float: left;
+    width: 170px;
+    margin-right: 40px;
+}
